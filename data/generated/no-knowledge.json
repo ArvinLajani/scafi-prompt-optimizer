@@ -330,6 +330,17 @@
     }
   },
   {
+    "testName": "Calculate hop count distance from a source node",
+    "promptIndex": 0,
+    "knowledgeFile": "src/main/resources/knowledge/no-knowledge.md",
+    "modelUsed": "placeholder",
+    "result": {
+      "CompilationFailed": {
+        "producedCode": ""
+      }
+    }
+  },
+  {
     "testName": "collect the max ID in the network on each node",
     "promptIndex": 0,
     "knowledgeFile": "knowledge/no-knowledge.md",
